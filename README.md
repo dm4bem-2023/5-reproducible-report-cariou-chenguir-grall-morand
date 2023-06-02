@@ -4,6 +4,9 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/cghiaus/dm4bem/blob/main/LICENSE)
 
 
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/dm4bem-2023/5-reproducible-report-cariou-chenguir-grall-morand/HEAD)
+
+
 These tutorials present a complete example of thermal dynamic simulation of a building. For the sake of simplicity, a [toy model](https://en.m.wikipedia.org/wiki/Toy_model) is used for the [building](./figures/03_cube_principle.png) in which 5 identical two-layer walls, a glass wall, air infiltration, and an indoor temperature control system are modelled.
 
 The tutorials go through obtaining weather data from internet, modelling the thermal transfer with thermal networks, transforming the thermal networks into systems of differential algebraic equations and state-space representation, and implementing customized control algorithms into the numerical integration loop.
