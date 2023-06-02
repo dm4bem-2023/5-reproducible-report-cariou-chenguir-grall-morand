@@ -1,6 +1,5 @@
 # Dynamic Models for Building Energy Management
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/cghiaus/dm4bem/HEAD)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/cghiaus/dm4bem/blob/main/LICENSE)
 
 
